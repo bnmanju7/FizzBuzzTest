@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88277FFD-BED9-4C7B-BC6C-D53D7A016D49}|FizzBuzzApp\\FizzBuzzApp.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fizzbuzzapp\\fizzbuzzapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88277FFD-BED9-4C7B-BC6C-D53D7A016D49}|FizzBuzzApp\\FizzBuzzApp.csproj|solutionrelative:fizzbuzzapp\\fizzbuzzapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88277FFD-BED9-4C7B-BC6C-D53D7A016D49}|FizzBuzzApp\\FizzBuzzApp.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fizzbuzzapp\\extensionmethods\\builderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88277FFD-BED9-4C7B-BC6C-D53D7A016D49}|FizzBuzzApp\\FizzBuzzApp.csproj|solutionrelative:fizzbuzzapp\\extensionmethods\\builderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fuzzbuzz.services\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|solutionrelative:fuzzbuzz.services\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C613DD0-1295-4DFD-9168-EC872C82682B}|FizzBizzApp.Test\\FizzBizzApp.Test.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fizzbizzapp.test\\fizzbuzzcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C613DD0-1295-4DFD-9168-EC872C82682B}|FizzBizzApp.Test\\FizzBizzApp.Test.csproj|solutionrelative:fizzbizzapp.test\\fizzbuzzcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fuzzbuzz.services\\constants\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|solutionrelative:fuzzbuzz.services\\constants\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fuzzbuzz.services\\services\\divisionbynumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|solutionrelative:fuzzbuzz.services\\services\\divisionbynumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|d:\\users\\manarayanasami\\source\\repos\\fizzbuzz\\fizzbuzzapp\\fuzzbuzz.services\\interfaces\\ifizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C9DE37-E39D-43EB-AAED-D40F9E8B15B2}|FuzzBuzz.Services\\FizzBuzz.Services.csproj|solutionrelative:fuzzbuzz.services\\interfaces\\ifizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FizzBuzzApp.http",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.http",
+              "RelativeDocumentMoniker": "FizzBuzzApp\\FizzBuzzApp.http",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.http",
+              "RelativeToolTip": "FizzBuzzApp\\FizzBuzzApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-25T03:40:19.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FizzBuzzControllerTests.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBizzApp.Test\\FizzBuzzControllerTests.cs",
+              "RelativeDocumentMoniker": "FizzBizzApp.Test\\FizzBuzzControllerTests.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBizzApp.Test\\FizzBuzzControllerTests.cs",
+              "RelativeToolTip": "FizzBizzApp.Test\\FizzBuzzControllerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:53:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DivisionbyNumberService.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Services\\DivisionbyNumberService.cs",
+              "RelativeDocumentMoniker": "FuzzBuzz.Services\\Services\\DivisionbyNumberService.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Services\\DivisionbyNumberService.cs",
+              "RelativeToolTip": "FuzzBuzz.Services\\Services\\DivisionbyNumberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:37:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "globalConstants.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Constants\\globalConstants.cs",
+              "RelativeDocumentMoniker": "FuzzBuzz.Services\\Constants\\globalConstants.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Constants\\globalConstants.cs",
+              "RelativeToolTip": "FuzzBuzz.Services\\Constants\\globalConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:02:52.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFizzBuzz.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Interfaces\\IFizzBuzz.cs",
+              "RelativeDocumentMoniker": "FuzzBuzz.Services\\Interfaces\\IFizzBuzz.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Interfaces\\IFizzBuzz.cs",
+              "RelativeToolTip": "FuzzBuzz.Services\\Interfaces\\IFizzBuzz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:00:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuilderExtension.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBuzzApp\\ExtensionMethods\\BuilderExtension.cs",
+              "RelativeDocumentMoniker": "FizzBuzzApp\\ExtensionMethods\\BuilderExtension.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FizzBuzzApp\\ExtensionMethods\\BuilderExtension.cs",
+              "RelativeToolTip": "FizzBuzzApp\\ExtensionMethods\\BuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:10:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Services\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FuzzBuzz.Services\\Services\\FizzBuzzService.cs",
+              "ToolTip": "D:\\Users\\manarayanasami\\source\\repos\\FizzBuzz\\FizzBuzzApp\\FuzzBuzz.Services\\Services\\FizzBuzzService.cs",
+              "RelativeToolTip": "FuzzBuzz.Services\\Services\\FizzBuzzService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:26:43.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
