@@ -25,4 +25,4 @@
     In fizzbuzzy there is 4 test cases to test the inputs and retur response.
 
 ## Concludes
-   FizzBuzzy program makes easy to understant and implemented in with latest design patterns and easy to test and execute application.
+   FizzBuzzy program makes easy to understand and implemented in with latest design patterns and easy to test and execute application.
